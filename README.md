@@ -11,3 +11,4 @@ cd REST-Calculator
 pnpm install
 pnpm dev
 ```
+Using postman send a POST request containing two numbers to the predefined API endpoints.
